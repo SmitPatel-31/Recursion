@@ -1,3 +1,10 @@
+// fibonacci series is 0,1,1,2,3,5,8....
+// so input is 3 then output =2
+
+
+
+
+
 #include<iostream>
 using namespace std;
 
